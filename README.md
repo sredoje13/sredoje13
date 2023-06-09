@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sredoje13
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react.js
+- 🌱 I’m working in react.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me e-mail=> popovicccjelena997@gmail.com and mobile phone=> +381607420567
 
