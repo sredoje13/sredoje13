@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sredoje13
+- 👋 Hi, I’m @jelena13
 - 👀 I’m interested in web development
 - 🌱 I’m working in react.js
 - 💞️ I’m looking to collaborate on ...
